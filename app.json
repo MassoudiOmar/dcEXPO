@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "DeepConnect",
+    "slug": "DeepConnect",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3a073970-b545-4ea3-ad8a-f97ca70c5f54"
+      }
+    }
+  },
+  "name": "DeepConnect"
+}
